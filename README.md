@@ -5,9 +5,9 @@ This will be part of a mono repo of landing pages that use Spline.
 User can see different use cases of landing pages using Spline in different repos. 
 
 ### 👩‍💻Technical Details
-React
-TypeScript
-Spline  
+- React
+- TypeScript
+- Spline  
 
 ### 💻Code
 [TO DO]
